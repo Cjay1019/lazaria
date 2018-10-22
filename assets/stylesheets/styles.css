@@ -1,3 +1,24 @@
 html {
-    background-color: bisque;
+    background-image: url(../images/background-map.jpg);
+}
+
+.panel-heading {
+    background-color: #ffdead;
+    border: 1px solid #a0522d;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    padding-left: .5rem;
+}
+
+.jumbotron {
+    background-color: #E8B992;
+    border: 1px solid #a0522d;
+}
+
+.featured-img {
+    width: 10rem;
+    height: auto;
+    float: left;
+    margin: 0 1rem 1rem 0;
 }
