@@ -2,7 +2,7 @@ html {
     background-image: url(../images/background-map.jpg);
 }
 
-.panel-heading {
+.panHead {
     background-color: #ffdead;
     border: 1px solid #a0522d;
     font-weight: bold;
